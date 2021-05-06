@@ -1,2 +1,5 @@
-# Git-and-GitHub-for-Beginners
-Git and GitHub for Beginners — Windows and Mac!
+# Git and GitHub for Beginners
+
+Небольшая, но ёмкая шпаргалка для изучающих Git на русском языке для начинающих разработчиков — сохраняйте и пользуйтесь!
+
+© Владимир Моденов, 2021
